@@ -1,6 +1,6 @@
 {
   "name": "humankit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tiny, type-safe humanizers — bytes (with parse), durations, relative time, compact numbers, and ordinals. Zero dependencies.",
   "keywords": [
     "human",
